@@ -1,0 +1,27 @@
+Personal Transparency: Working Hours – Sep 19 to Jan 20
+
+About the data:
+
+This is the first new data-publish in my personal transparency experiment.
+This data covers my time in work or work-related activities from 23 Sep 19 to 10 Jan 20.
+This work is logged against four categories:
+Working in Office (self-explanatory)
+Working from home or remote location (e.g. train, cafe, home)
+Self-directed learning (coding, other learning and time spent writing this blog)
+Formal learning (Civil Service learning or other organised courses)
+Data published: Date, timestamp, Start/Begin, End/Leave, Category
+Format: .csv
+I have corrected the data, mainly to cover for those entries where I logged after the fact (so the ‘timestamp’ on the log is not the actual time that was logged). Plus also a few errors and omissions.
+Work Log – Corrected Data – Sep19-Jan20Download
+
+How I gathered the data:
+
+I used a simple Google Form, via a shortcut on my phone’s home screen. The form allows immediate logging of the ‘start’ or ‘end’ of an activity, and the category of activity.
+The form also allows me to note down an alternative time if I am logging after the event rather than at the time the acivity occured. I needed to do this a lot as I very often forgot to log at the time. In general when I logged after the fact I approximated to the nearest 5 mins.
+Note that I have not logged any ‘travelling time’ (either routine commuting to work, or longer journeys to meetings at other offices). The only exceptions to this are where I have worked on the train, which I have logged as ‘Working from home or remote location’
+
+Learning, insight and follow-up from this exercise:
+
+With a simple form in place, it is not a significant effort for me to record this data.
+It’s vital to log the work as it happens – logging the times after the fact and then correcting the data later is confusing and time-consuming!
+I will perform some analysis on this data when I have got better at recording it – and have more of it.
